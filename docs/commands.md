@@ -26,18 +26,23 @@ print the standard raid messages.
 so sei we all.
 
 ### bahms
-who are we?
-
-### toerig
-erm...
-
-#### alias
-throne
+bespoke. artisinal. handcrafted. meme. software.
 
 ### barknote
 xD
 
 ## user commands
+
+### jill
+send a message for jill to respond to.
+jill responds out loud.
+costs one giga-vip level.
+
+### example
+
+```
+[user]: !jill are you there?
+```
 
 ### my-color
 gets your "color" within the stream system.
@@ -57,7 +62,7 @@ if someone already has your color the command fails silently.
 ### giga-vip
 gets current giga-vip level for users.
 with certain admin scopes this command is also used to add/remove levels.
-option to provide a user aas an argument exists, if a user is not provided as aan argument the command assumes the chatters user is desired.
+option to provide a user as an argument exists, if a user is not provided as aan argument the command assumes the chatters user is desired.
 
 #### alias
 gvip
